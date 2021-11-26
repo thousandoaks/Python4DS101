@@ -1,4 +1,4 @@
-# BEMM458
+# Python4DS101
 code associated to Python4DS101
 please refer to the sessions folder.
 
